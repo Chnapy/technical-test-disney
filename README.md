@@ -32,3 +32,4 @@ Quelques règles sont énoncées mais une grande liberté est donnée sur le res
 
 ### Maquette
 
+![maquette](./maquette.png)
